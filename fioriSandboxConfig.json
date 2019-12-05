@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"Snow": {
+			"component": "snow",
+			"url": "../../../../../"
+		}
+	}
+}
